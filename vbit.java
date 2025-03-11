@@ -1,4 +1,4 @@
-class vbit1
+class vbit
   {
     public static void main(String args[]);
     {
